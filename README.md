@@ -1,6 +1,7 @@
 # Primeiro Projeto Flutter
 
 Este projeto é o ponto de partida para o desenvolvimento de um aplicativo Flutter.
+> Minhas alteraçoes e adições estao na pasta  `lib/main.dart`
 
 ## Introdução
 
