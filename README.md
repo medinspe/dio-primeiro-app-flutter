@@ -1,16 +1,13 @@
-# dioprojeto
+# Primeiro Projeto Flutter
 
-A new Flutter project.
+Este projeto é o ponto de partida para o desenvolvimento de um aplicativo Flutter.
 
-## Getting Started
+## Introdução
 
-This project is a starting point for a Flutter application.
+Se este é o seu primeiro projeto em Flutter, aqui estão alguns recursos úteis para ajudá-lo a começar:
 
-A few resources to get you started if this is your first Flutter project:
+- **[Lab: Crie seu primeiro aplicativo Flutter](https://docs.flutter.dev/get-started/codelab)**: Um tutorial passo a passo que o guiará na criação do seu primeiro aplicativo Flutter, ideal para iniciantes.
+- **[Cookbook: Exemplos úteis de Flutter](https://docs.flutter.dev/cookbook)**: Um conjunto de exemplos práticos que ensinam como implementar funcionalidades comuns em aplicativos Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para obter ajuda sobre como começar com o desenvolvimento em Flutter, consulte a [documentação online](https://docs.flutter.dev/), que oferece tutoriais, exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
